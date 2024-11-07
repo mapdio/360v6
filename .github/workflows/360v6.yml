@@ -43,7 +43,7 @@ jobs:
       #默认主题
       WRT_THEME: bootstrap
       #默认主机名
-      WRT_NAME: OWRT
+      WRT_NAME: 360v6
       #默认WIFI名
       WRT_WIFI: NetGear
       #默认地址
